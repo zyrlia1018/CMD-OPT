@@ -4,5 +4,5 @@ CMD-OPT (Constrained molecular design-optimization), a two-stage molecular optim
 #### TOC graphics
 
 <div align=center>
-	<img src="https://github.com/zyrlia1018/CMD_FGKpuu/raw/main/toc/toc.png" width="100%"/>
+	<img src="https://github.com/zyrlia1018/CMD-OPT/blob/main/TOC.jpg" width="100%"/>
 </div>
